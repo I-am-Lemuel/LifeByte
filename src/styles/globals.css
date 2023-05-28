@@ -6,3 +6,10 @@ body {
     background-color: #181e2a;
     color: #fff;
 }
+
+.forgot-password{
+    padding-right: 100px;
+}
+#heightbox{
+    height: 70vh;
+}

@@ -41,7 +41,7 @@ export const WidgetBar = () => {
     return (
         <div>
             <div className="flex justify-center">
-                <div className=" r w-11/12 rounded-lg bg-darker p-1.5 shadow ">
+                <div className=" w-11/12 rounded-lg bg-darker p-1.5 shadow ">
                     <div className="flex justify-evenly">
                         <IconButton aria-label="calendar" size="small">
                             <TodayIcon className={`h-6 w-6 text-light`} />
